@@ -3,7 +3,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/818235023094186046/1066073140268126378/N28BcG.gif">
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,django,flask,postgres,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,django,flask,postgres,mongodb,docker)](https://skillicons.dev)
 
   ##
  
